@@ -1,0 +1,5 @@
+.DS_store
+.ipynb_checkpoints
+*.pptx
+*.sw*
+.idea
